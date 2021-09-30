@@ -5,7 +5,7 @@
         <meta charset="utf-8"> 
         </head>    
     <body>
-        <script src="./main.js"></script>
+        <script src="./main.json"></script>
         <div >
         
         <img src="https://th.bing.com/th/id/OIP.rEzzKAEnHDjnNXONJzEahwHaD6?pid=ImgDet&rs=1" 
