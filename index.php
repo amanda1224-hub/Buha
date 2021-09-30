@@ -5,7 +5,7 @@
         <meta charset="utf-8"> 
         </head>    
     <body>
-        <script src="./main.php"></script>
+        <script src="./main.js"></script>
         <div >
         
         <img src="b.png" 
